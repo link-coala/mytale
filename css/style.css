@@ -1,0 +1,78 @@
+*{
+background-color: #E8FFBB;
+padding: 0px 46px 1px;
+} 
+p {
+	font-size: 80px;
+	font-family: 'Pacifico', cursive;
+	text-align: center;
+		color: #CC897E;
+}
+.button {
+  background-color: #69ABC5; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  top: 50%;
+  transform: translateY(-50%);
+	 position: relative;
+  height: 100%;
+	 vertical-align: middle;
+	 width: 100%;
+}
+.inicio{
+	 content: 'Text inserted before via CSS';
+}
+.cls1,.cls2,.cls3{	
+		font-size: 50px;
+	 font-family: 'Pacifico', cursive;
+	 color: #CC897E;
+}
+ /** * intro class  */
+.intro{	
+display : none;
+
+}
+ /** * social links  */
+.social {
+  list-style: none;
+  padding: 0;
+	 color: black;
+}
+.social li {
+  display: inline-block;
+  padding-right: 0.5rem;
+  padding-right: 8px;
+  font-size: 90px;
+}
+.social a {
+  color: #69ABC5;;
+}
+.ad {
+font-family: 'Permanent Marker', cursive;
+font-size: 90px;	
+color: gray;	
+display: none;	
+}
+.new{
+
+}
+.header {
+    color: dimgray;
+    font-size: 80px;
+    text-align: center;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+input{
+    background-color: #4CAF50; /* Green */
+}
+#tlemail{
+height: 30px;
+}
