@@ -53,7 +53,8 @@ $("#close").css("color", "green");
 });
 // slides	content 
 var x = document.getElementsByClassName("cls1");
-    x[0].innerHTML = "si entras a tu derecha esta la cocina";
+    x[0].innerHTML = "yo vivo en el primer cuarto que te encuentras cuando entras soy la persona encargada de cobrarle a los demas, fui el primero en llegar 
+";
 var x = document.getElementsByClassName("cls2");
     x[0].innerHTML = "enfrente la sala";
 var x = document.getElementsByClassName("cls3");
